@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Houssem Rdissi, I'm DevOps Intern at Linkfire :fire:
+Working remotely from Tunisia :tn:
+
+- 🔭 I’m currently working on my Internship project in order to succeed it and get my engineering diploma :mortar_board:
+- 📫 How to reach me: https://www.linkedin.com/in/houssem-rdissi-9218b7182/
+
 <!--
 **houssemrdissi/houssemrdissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
