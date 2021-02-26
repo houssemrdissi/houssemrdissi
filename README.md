@@ -1,7 +1,7 @@
 <h1>Hi there 👋 </h1> 
 
 <h2>:man_student: About me </h2> 
-I'm Houssem Rdissi, I'm from Tunisia.
+I'm Houssem Rdissi, I'm from Tunisia.<br>
 You can call me Houssem or just try to spell حسام :satisfied:  
 I'm DevOps Intern at Linkfire :fire: <br>
 Studying ArcTic (Architecture IT et Cloud Computing) at Esprit University <br>
