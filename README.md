@@ -16,3 +16,4 @@ I’m currently working on my Internship project in order to succeed it and get 
 
 <h3>:house: How to reach me </h3> <br>
 Linkedin: https://www.linkedin.com/in/houssem-rdissi-9218b7182/ <br>Gmail: houssem.rdissi@gmail.com 
+<img src="https://raw.githubusercontent.com/thompsonemerson/thompsonemerson/master/cover-thompson.png" />
