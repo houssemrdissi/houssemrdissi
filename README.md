@@ -9,3 +9,4 @@ Working remotely from my lovely city called Bizerte (don't froget to spell بن�
 - 🔭 I’m currently working on my Internship project in order to succeed it and get my engineering diploma :mortar_board:
 - 📫 How to reach me: <br>*Linkedin: https://www.linkedin.com/in/houssem-rdissi-9218b7182/ <br>*Gmail: houssem.rdissi@gmail.com 
 
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
