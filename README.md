@@ -6,7 +6,7 @@
 <h3>:man_student: About me </h3> 
 I'm Houssem Rdissi, I'm from Tunisia.<br>
 You can call me Houssem or just try to spell حسام :satisfied: <br> 
-I'm Cloud and DevOps Engineer at Linkfire :fire: <br>
+I'm Cloud and DevOps Engineer at Too Good To Go (DK) <br>
 Working remotely from my lovely city called Bizerte (don't froget to spell بنزرت :satisfied: ) <br><br> 
 
 <h3>:office_worker: Currently </h3> 
